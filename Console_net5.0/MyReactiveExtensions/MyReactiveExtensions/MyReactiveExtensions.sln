@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyObserverPattern", "MyObserverPattern\MyObserverPattern.csproj", "{51342594-2276-4C9D-9797-2504D416D0AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyObserverPattern2", "MyObserverPattern2\MyObserverPattern2.csproj", "{42E38325-F2F3-4193-BA77-55A6A6E7ED31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySubject", "MySubject\MySubject.csproj", "{D15A98F5-FDF2-4C74-B66B-60103AC6269C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51342594-2276-4C9D-9797-2504D416D0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51342594-2276-4C9D-9797-2504D416D0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51342594-2276-4C9D-9797-2504D416D0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51342594-2276-4C9D-9797-2504D416D0AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E38325-F2F3-4193-BA77-55A6A6E7ED31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E38325-F2F3-4193-BA77-55A6A6E7ED31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E38325-F2F3-4193-BA77-55A6A6E7ED31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E38325-F2F3-4193-BA77-55A6A6E7ED31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15A98F5-FDF2-4C74-B66B-60103AC6269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15A98F5-FDF2-4C74-B66B-60103AC6269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15A98F5-FDF2-4C74-B66B-60103AC6269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15A98F5-FDF2-4C74-B66B-60103AC6269C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
